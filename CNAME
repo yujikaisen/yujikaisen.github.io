@@ -1,5 +1,1 @@
-$ dig POKEBOIOFFICIAL.BLOGSPOT.COM +nostats +nocomments +nocmd
-    > ;POKEBOIOFFICIAL.BLOGSPOT.COM.                    IN      A
-    > POKEBOIOFFICIAL.BLOGSPOT.COM.             3592    IN      CNAME   yujikaisen.github.io.
-    > yujikaisen.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
-    > GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+pokeboiofficial.blogspot.com
